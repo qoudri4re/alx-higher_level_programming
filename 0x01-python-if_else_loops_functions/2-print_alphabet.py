@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-res = ""
-for idx in range(97, 97 + 26):
-    res = res + chr(idx)
-print("{}".format(res))
+for chr in "abcdefghijklmnopqrstuvwxyz":
+    print('{}'.format(chr), end="")
