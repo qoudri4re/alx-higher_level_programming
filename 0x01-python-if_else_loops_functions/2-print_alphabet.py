@@ -2,4 +2,5 @@
 res = ""
 for idx in range(97, 97 + 26):
     res = res + chr(idx)
-print("{}".format(res))
+print('v')
+# print("{}".format(res))
