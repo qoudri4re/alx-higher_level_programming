@@ -8,7 +8,7 @@ if __name__ == "__main__":
         sys.exit(1)
     else:
         if (args[2] != '*' and args[2] != '+' and
-            args[2] != '-' and args[2] != '/'):
+        args[2] != '-' and args[2] != '/'):
             print("Unknown operator. Available operators: +, -, * and /")
             sys.exit(1)
         else:
