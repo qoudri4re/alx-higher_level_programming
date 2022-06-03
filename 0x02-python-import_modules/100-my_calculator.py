@@ -7,7 +7,8 @@ if __name__ == "__main__":
         print("./100-my_calculator.py <a> <operator> <b>")
         sys.exit(1)
     else:
-        if (args[2] != '*' and args[2] != '+' and args[2] != '-' and args[2] != '/'):
+        if (args[2] != '*' and args[2] != '+' and
+            args[2] != '-' and args[2] != '/'):
             print("Unknown operator. Available operators: +, -, * and /")
             sys.exit(1)
         else:
@@ -23,4 +24,3 @@ if __name__ == "__main__":
             else:
                 math = div(a, b)
             print("{} {} {} = {}".format(a, args[2], b, math))
-
