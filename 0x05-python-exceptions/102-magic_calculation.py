@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def magic_calculation(a, b):
     var = 0
     for i in range(1, 3):
@@ -9,4 +10,4 @@ def magic_calculation(a, b):
         except:
             var = (b + a)
             break
-    return 
+    return var
