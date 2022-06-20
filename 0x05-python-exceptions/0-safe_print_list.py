@@ -4,10 +4,11 @@ def safe_print_list(my_list=[], x=0):
     nums = []
     for index in range(x):
         try:
-            nums.append(str(my_list[index]))
+            print("{}".format(my_list[index]), end="")
+            num_printed += 1
         except:
-            pass
+            break
         else:
             num_printed += 1
-    print(''.join(nums),' ')
+    print()
     return num_printed
