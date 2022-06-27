@@ -89,6 +89,7 @@ class Rectangle:
             return return_val
 
         for i in range(self.height):
+            i += 0
             return_val += (str(self.print_symbol)) * self.width + "\n"
         return return_val[:-1]
 
@@ -138,4 +139,3 @@ class Rectangle:
             a new instance of rectangle class
         """
         return cls(size, size)
-
