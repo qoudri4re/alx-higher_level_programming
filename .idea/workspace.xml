@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3079d4-22c8-400d-942b-1de9445be9d4" name="Changes" comment="amend">
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/101-nqueens.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-python-more_classes/101-nqueens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/1test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-python-more_classes/1test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/0-lookup.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/0-lookup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/1-my_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/1-my_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/10-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/10-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/100-my_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/100-my_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/11-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/11-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/3-is_kind_of_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/3-is_kind_of_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/4-inherits_from.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/4-inherits_from.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/5-base_geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/5-base_geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/6-base_geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/6-base_geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/7-base_geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/7-base_geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/8-rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/8-rectangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/9-rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/9-rectangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +39,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AIAMxEvXgC3GlQO1yycnj64TLU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings sdk-home="C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe">
@@ -45,7 +60,28 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1test">
+  <component name="RunManager" selected="Python.testing">
+    <configuration name="0-lookup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x0A-python-inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x0A-python-inheritance/0-lookup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,10 +124,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x0A-python-inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x0A-python-inheritance/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1test" />
+        <item itemvalue="Python.testing" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.0-lookup" />
+        <item itemvalue="Python.1test" />
       </list>
     </recent_temporary>
   </component>
