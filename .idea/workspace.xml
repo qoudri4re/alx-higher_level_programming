@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3079d4-22c8-400d-942b-1de9445be9d4" name="Changes" comment="amend">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/0-lookup.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/0-lookup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/1-my_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/1-my_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/10-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/10-square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/100-my_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/100-my_int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/11-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/11-square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/3-is_kind_of_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/3-is_kind_of_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/4-inherits_from.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/4-inherits_from.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/5-base_geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/5-base_geometry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/6-base_geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/6-base_geometry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/7-base_geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/7-base_geometry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/8-rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/8-rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0A-python-inheritance/9-rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-python-inheritance/9-rectangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable"
