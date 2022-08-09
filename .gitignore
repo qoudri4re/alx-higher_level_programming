@@ -1,2 +1,6 @@
 .idea
+<<<<<<< HEAD
 __pycache__
+=======
+.gitignore
+>>>>>>> 325e6f3fe5099bcd5367db6c513129ae7c678fc7
