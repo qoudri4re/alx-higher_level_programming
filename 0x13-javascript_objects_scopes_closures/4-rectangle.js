@@ -23,18 +23,18 @@ class Rectangle {
     const rows = new Array(this.height).fill(row.join(''), 0, this.height);
     console.log(rows.join('\n'));
   }
-  
+
   /**
-   * exchanges the width and height
+   * Swaps the width and height of this Rectangle.
    */
   rotate () {
     const tmp = this.width;
     this.width = this.height;
     this.height = tmp;
   }
-  
+
   /**
-   * doubles the w and h by 2
+   * Doubles the dimensions of this Rectangle.
    */
   double () {
     this.width *= 2;
