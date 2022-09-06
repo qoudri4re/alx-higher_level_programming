@@ -8,8 +8,8 @@ class Rectangle {
    * @param {Number} w The value of the width.
    * @param {Number} h The value of the height.
    */
-  constructor(w, h) {
-    if (w <= 0 && h <= 0)) {
+  constructor (w, h) {
+    if (w > 0 && h > 0) {
       this.width = w;
       this.height = h;
     }
