@@ -3,7 +3,12 @@
  * Represents a rectangle class.
  */
 class Rectangle {
-  constructor(w, h) {
+  /**
+   * initializes an instance of the class
+   * @param {Number} w -- width
+   * @param {Number} h -- the value of the height
+  */
+  constructor (w, h) {
     this.width = w;
     this.height = h;
   }
