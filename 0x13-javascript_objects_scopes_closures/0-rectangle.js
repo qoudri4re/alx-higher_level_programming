@@ -1,1 +1,3 @@
-iiiiii
+#!/usr/bin/node
+
+class Rectangle {}
