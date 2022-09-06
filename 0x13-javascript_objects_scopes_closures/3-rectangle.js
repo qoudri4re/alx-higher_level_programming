@@ -1,1 +1,31 @@
-iiiiii
+
+#!/usr/bin/node
+/**
+ * represents a rectangle
+ */
+class Rectangle {
+  /**
+   * Creates a new Rectangle with the given dimensions.
+   * @param {Number} w The value of the width.
+   * @param {Number} h The value of the height.
+   */
+  constructor (w, h) {
+    if (w > 0 && h > 0) {
+      this.width = w;
+      this.height = h;
+    }
+  }
+  
+  print () {
+    while (this.height > 0) {
+      let x = "";
+      while (this.width > 0) {
+        x += "X";
+        x--;
+      }
+      console.log(x);
+    }
+  }
+}
+
+module.exports = Rectangle;
