@@ -16,15 +16,10 @@ class Rectangle {
     }
   }
   
-  print () {
-    while (this.height > 0) {
-      let x = "";
-      while (this.width > 0) {
-        x += "X";
-        x--;
-      }
-      console.log(x);
-    }
+    print () {
+    const row = new Array(this.width).fill('X', 0, this.width);
+    const rows = new Array(this.height).fill(row.join(''), 0, this.height);
+    console.log(rows.join('\n'));
   }
 }
 
