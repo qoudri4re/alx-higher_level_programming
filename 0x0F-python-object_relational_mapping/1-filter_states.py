@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-'''Prints all rows in the states table of a database with
+"""Prints all rows in the states table of a database with
 a name starting with 'N'.
-'''
+"""
 import sys
 import MySQLdb
 
