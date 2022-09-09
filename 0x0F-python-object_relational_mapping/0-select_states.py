@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-'''lists all the states from the database htbn_0e_0_usa'''
+"""lists all the states from the database htbn_0e_0_usa"""
 import sys
 import MySQLdb
 
 
 if __name__ == '__main__':
     if len(sys.argv) >= 4:
-        database_connection = MySQL.connect(
+        database_connection = MySQLdb.connect(
             host='localhost',
             port=3306,
             user=sys.argv[1],
