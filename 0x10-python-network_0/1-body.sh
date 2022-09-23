@@ -1,3 +1,3 @@
 #!/bin/bash
 # Gets the body of a response from a URL if the status code is 200
-curl -s -L "$1"
+sudo curl -s -L "$1"
