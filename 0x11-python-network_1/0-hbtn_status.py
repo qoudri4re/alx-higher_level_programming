@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """fetches a url"""
-import urllib.request as request
+from urllib import request
+
 
 if __name__ == '__main__':
     with request.urlopen("https://intranet.hbtn.io/status") as response:
