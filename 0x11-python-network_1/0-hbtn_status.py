@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-
-"""fetches a url"""
+"""fetches from a url, displays its content"""
 from urllib import request
 
 
