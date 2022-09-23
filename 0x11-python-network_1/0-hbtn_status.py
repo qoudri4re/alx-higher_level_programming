@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """fetches a url"""
 from urllib import request
 
